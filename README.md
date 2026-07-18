@@ -42,18 +42,46 @@ Software Engineer • AI Engineer • Competitive Programmer
 - System Design
 - Machine Learning
 
-🌱 Currently Learning
-
-- Distributed Systems
-- Docker
-- Networking
-- Linux
-- Cloud Computing
-
-🎯 Goal
-
-Build scalable software products powered by AI.
-
 <br clear="right"/>
+# 🛠️ Tech Arsenal
 
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+
+<br><br>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+<br><br>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark" />
+
+<br><br>
+
+### 💻 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,cmake&theme=dark" />
+
+</div>
+
+---
 ---
